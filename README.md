@@ -8,4 +8,4 @@
 | :-------------------- | :-----------------------: |
 | Exploratory Analysis       |      [Google Colab Link](https://colab.research.google.com/drive/1mStdG-0Vb1srldmJhR7HmUnx41yWyESY?usp=sharing)           |
 | Data Cleaning  |     [Google Colab Link](https://colab.research.google.com/drive/1x4m1X-cqk4xjp4GxnxGov_zlnhWhlr9s?usp=sharing)          |
-| Glassdoor Reviews Preprocessing and Sentiment Analysis | [Google Colab Link]([https://drive.google.com/file/d/1QYjiJJg46pYcGohEz2wbnlfiAyAugY1e/view?usp=sharing](https://colab.research.google.com/drive/1T-SSQVkTNXjnC-FsPgwN-GHjWyEWSe3S?usp=sharing))     |
+| Glassdoor Reviews Preprocessing and Sentiment Analysis | [Google Colab Link](https://drive.google.com/file/d/1QYjiJJg46pYcGohEz2wbnlfiAyAugY1e/view?usp=sharing](https://colab.research.google.com/drive/1T-SSQVkTNXjnC-FsPgwN-GHjWyEWSe3S?usp=sharing))     |
